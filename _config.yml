@@ -1,0 +1,28 @@
+name: brianbeatty
+favicon: null
+layout_spectrum: 0.5059809098020196
+typography_spectrum: 0.6441770824603736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9688307691831142
+  lightness: 0.5424660202115774
+  saturation: 0.7369116365443915
+  rhythmicContrast: 0.6703800014220178
+purpose: []
