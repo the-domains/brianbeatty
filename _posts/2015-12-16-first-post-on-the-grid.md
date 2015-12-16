@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I am an early adopter launching into the world of the AI unknown :) If I never see you again, I love you.'
-datePublished: '2015-12-16T01:48:21.174Z'
-dateModified: '2015-12-16T01:48:14.903Z'
+datePublished: '2015-12-16T01:49:15.401Z'
+dateModified: '2015-12-16T01:49:06.774Z'
 title: First Post on The Grid
 author: []
 sourcePath: _posts/2015-12-16-first-post-on-the-grid.md
